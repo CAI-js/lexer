@@ -1,6 +1,7 @@
 # @caijs/lexer
 
 [![Build Status](https://travis-ci.com/CAI-js/lexer.svg?branch=master)](https://travis-ci.com/CAI-js/lexer)
+[![Coverage Status](https://coveralls.io/repos/github/CAI-js/lexer/badge.svg?branch=master)](https://coveralls.io/github/CAI-js/lexer?branch=master)
 [![NPM version](https://img.shields.io/npm/v/@caijs/lexer.svg?style=flat)](https://www.npmjs.com/package/@caijs/lexer)
 [![NPM downloads](https://img.shields.io/npm/dm/@caijs/lexer.svg?style=flat)](https://www.npmjs.com/package/@caijs/lexer)
 
